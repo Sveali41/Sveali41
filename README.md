@@ -1,16 +1,12 @@
 ### Hi there 👋 This's Siyao
-
-<!--
-**Sveali41/Sveali41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### About ME 😄
 
 - 🔭 I’m currently studying at King's College London.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Reinforce Learning (especially curriculum learning)/ autonomous robot, and I did some research before mainly about AI algorithms for telecommunications (time series prediction/ anomaly detection)
+- 📫 How to reach me:
+  If you have any interest about the research or collaboration, contact me from sveali41@gmail.com
+  I can't wait to dive into some fun and fascinating conversations!
+### Publications
+I've contributed to the field with several publications. Check out my work on my [Google Scholar profile](https://scholar.google.com/citations?user=bknuVoEAAAAJ&hl=en).
+
+
